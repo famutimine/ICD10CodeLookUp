@@ -17,7 +17,7 @@ import numpy as np
 from ICD10CodeLookUp import DiagnosisCodeLookUp
 ```
 
-#### Create an instance of the ICD10CodeLookUp class
+#### Create an instance of the DiagnosisCodeLookUp class
 ```python
 lookup = DiagnosisCodeLookUp()
 ```
